@@ -1,0 +1,64 @@
+.main-nav {
+	background-color: rgba(0,0,0,1)!important;
+}
+
+.footer {
+	background-color: rgba(0,0,0,1)!important;	
+}
+
+.batch-template {
+	position: relative;
+	width: 100%;
+	height: auto;
+	min-height: 50%;
+	margin: 0px 0 0 0;
+	padding: 0px 0 0 0;
+
+  	background: url("../img/school-blue.jpg");
+	background:-webkit-gradient(linear, right top, left top, from(rgba(243, 91, 57, 0.7)), color-stop(70%, rgba(243, 91, 57, 0.7)), to(rgba(243, 91, 57, 0.7))), url("../img/school-blue.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-attachment: scroll;
+	background-size: cover;	
+}
+
+.information {
+	position: relative;
+	width: 100%;
+	min-height: 40%;
+	margin: 0px 0 0 0;
+	padding: 0px;
+}
+
+.yearbook {
+	position: relative;
+	width: 100%;
+	height: auto;
+	min-height: 50%;
+	margin: 0px 0 0 0;
+	padding: 0px 0 0 0;
+	background: url("../img/bg-website.jpg");
+	background:-webkit-gradient(linear, right top, left top, from(rgba(243, 153, 18, 0.7)), color-stop(70%, rgba(243, 153, 18, 0.7)), to(rgba(243, 153, 18, 0.7))), url("../img/bg-website.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-attachment: scroll;
+	background-size: cover;
+	color: #ffffff;
+}
+
+.video {
+	background-color: rgba(0,0,0,1);
+	margin-right: 0px;
+	margin-bottom: 5px;
+	width: 100%;
+	height: auto;
+	padding: 20px;
+}
+
+.form {
+	margin-top: 50px;
+}
+
+.batch-template  i {
+	color: #ffffff;
+}

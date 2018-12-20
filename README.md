@@ -1,2 +1,2 @@
-# Alumni-Network-Flask-Version-
-Alumni Network for Kuwaiti High School. Currently under construction.
+# Alumni-Network (In Progress)
+Website for the Alumni Network of a Kuwaiti High School
